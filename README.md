@@ -21,5 +21,20 @@ The Smart Resume Analyzer is a powerful tool designed to streamline the process 
 We welcome contributions from the community. If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
 
 # Output on Streamlit
-![image](https://github.com/shrutika008/ResumeAnalyzer/assets/78257913/54686ad6-17db-4b15-8be7-62212457fc8f)
+![image](https://github.com/shrutika008/ResumeAnalyzer/assets/78257913/d6ed85ed-97a3-4251-9488-a01ed548a5be)
+![image](https://github.com/shrutika008/ResumeAnalyzer/assets/78257913/bdaf4567-b442-4808-a2ea-f031c3e1176a)
+![image](https://github.com/shrutika008/ResumeAnalyzer/assets/78257913/e4c8531a-b848-4e9d-b50d-aab300ada987)
+![image](https://github.com/shrutika008/ResumeAnalyzer/assets/78257913/0cf856e8-d13f-4230-baf9-cc9b583a04a3)
+![image](https://github.com/shrutika008/ResumeAnalyzer/assets/78257913/7d970141-52b6-4214-ad97-f9b4bf967dd6)
+![image](https://github.com/shrutika008/ResumeAnalyzer/assets/78257913/47604c1b-4db9-4071-82c9-398dfa91735b)
+![image](https://github.com/shrutika008/ResumeAnalyzer/assets/78257913/2771a2ce-22bc-4219-be1a-fa534aa7e5eb)
+![image](https://github.com/shrutika008/ResumeAnalyzer/assets/78257913/6e28599f-bbbc-487f-b25a-06c6fd93cb8d)
+
+
+
+
+
+
+
+
 
