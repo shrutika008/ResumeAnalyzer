@@ -6,8 +6,8 @@ The Smart Resume Analyzer is a powerful tool designed to streamline the process 
 # Features
 1. Resume Parsing: Extracts essential information from resumes, including personal details, education, work experience, and skills.
 2. Keyword Matching: Identifies relevant keywords and matches them against job requirements to assess candidate suitability.
-3. Sentiment Analysis: Analyzes the tone of the resume to provide insights into the candidate's attitude and communication style.
-4. Skills Assessment: Evaluates the proficiency of key skills mentioned in the resume.
+3. Sentiment Analysis: Analyze the tone of the resume to provide insights into the candidate's attitude and communication style.
+4. Skills Assessment: Evaluate the proficiency of key skills mentioned in the resume.
 5. Customizable Criteria: Allows users to define specific criteria and priorities for a tailored evaluation process.
 6. Integration with Applicant Tracking Systems (ATS): Seamlessly integrates with popular ATS platforms to facilitate a smooth hiring workflow.
 
@@ -19,3 +19,7 @@ The Smart Resume Analyzer is a powerful tool designed to streamline the process 
 
 # Contributing
 We welcome contributions from the community. If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
+
+# Output on Streamlit
+![image](https://github.com/shrutika008/ResumeAnalyzer/assets/78257913/54686ad6-17db-4b15-8be7-62212457fc8f)
+
